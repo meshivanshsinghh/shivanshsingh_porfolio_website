@@ -15,7 +15,7 @@ export default function Home() {
 
   return (
     <main className='relative min-h-screen bg-black text-white overflow-hidden'>
-      <AnimatedBackground />
+      {/* <AnimatedBackground /> */}
 
       <div className="relative z-10 flex flex-col items-start justify-center min-h-screen max-w-4xl mx-auto px-6 md:px-12">
         <div className="space-y-8 max-w-2xl">
